@@ -28,14 +28,14 @@
 <br />
 <img align="right" width="450px" alt="GIF" src="./assets/icons/image1.jpeg" />
 <p align="center">
-  <h3> 2 Times Founder - Build 6 Products in last 3 years old Full-Stack developer.</h3>
+  <h3> Full-Stack developer | AI Engineer & Ex-CTO - Build 6 Products in last 3 years.</h3>
 </p>
 
  - 🥀 Exploring AI & LLMs
 
  - Big believer of AI and Agents, and how they will change the world.
 
- - <i>with Typescript, React and 69 others.</i>
+ - <i>with Typescript, React and more.</i>
  
  - I do fullstack and a bit of everything ❤️
  
