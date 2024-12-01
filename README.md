@@ -1,85 +1,94 @@
-<div align="center">
-   <h1>Hi there, I'm <a href="https://amankumar.ai">Aman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
+Here’s a clean, professional, and aesthetic `README.md` for your GitHub profile:
 
-</div>
+---
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/onlyoneaman/"><img height="30" src="./assets/icons/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/onlyoneaman"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
- </p>
+# 👋 Hi, I'm Aman Kumar
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Aman Kumar | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
+[![Website](https://img.shields.io/badge/website-amankumar.ai-blue?style=flat&logo=internet-explorer)](https://amankumar.ai)  
+[![Twitter](https://img.shields.io/badge/twitter-@onlyoneaman-1DA1F2?style=flat&logo=twitter)](https://x.com/onlyoneaman)  
+[![GitHub](https://img.shields.io/badge/github-onlyoneaman-black?style=flat&logo=github)](https://github.com/onlyoneaman)  
+[![Email](https://img.shields.io/badge/email-contact%40amankumar.ai-red?style=flat&logo=gmail)](mailto:hi@amankumar.ai)
 
+---
 
+I’m a **Full-Stack Developer** and **Hustler** with a passion for **building products** that make a difference. I love combining design, data, and AI to create seamless, functional, and aesthetic digital experiences.
+Currently leading Frontend at [kayAI]()
 
-<p align="center">
-   <a href="https://twitter.com/onlyoneaman"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/onlyoneaman?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@onlyoneaman"></a>
-   <br>
- </p>
- 
- <h5 align="center">
-   <i>⚡️⚡️</i>
-  </h5>
- 
- 
-<br />
-<img align="right" width="450px" alt="GIF" src="./assets/icons/image1.jpeg" />
-<p align="center">
-  <h3> Full-Stack developer | AI Engineer & Ex-CTO - Build 6 Products in last 3 years.</h3>
-</p>
+---
 
- - 🥀 Exploring AI & LLMs
+## 🚀 What I Do
 
- - Big believer of AI and Agents, and how they will change the world.
+- **Frontend Development**: Crafting beautiful and responsive interfaces with React, TypeScript, and TailwindCSS.
+- **Backend Expertise**: Building robust APIs using Python, Node.js, and Ruby on Rails.
+- **AI Enthusiast**: Integrating LLMs to build intelligent systems and chatbots.
+- **Open Source Projects**: Sharing code to inspire and support the developer community.
+- **Startup Hustler**: Previously worked as a CTO at [Dreamboat.ai](https://dreamboat.ai), now focusing on full-stack and AI projects.
 
- - <i>with Typescript, React and more.</i>
- 
- - I do fullstack and a bit of everything ❤️
- 
- - 💬 Connect? lets get social 👉🏼[<img height="15" src="./assets/icons/twitter.png" >](https://twitter.com/onlyoneaman)
+---
 
-<br />
+## 💻 Tech Stack
 
-### - Languages and Tools...
+### **Languages & Frameworks**:
+- **Frontend**: React, Next.js, TypeScript, TailwindCSS
+- **Backend**: Node.js, Python (FastAPI, Flask), Ruby on Rails
+- **Databases**: PostgreSQL, Redis, SQLite
+- **DevOps**: Docker, AWS, Nginx
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
+### **Tools & Platforms**:
+- **UI/UX**: Figma, Framer Motion, shadcn
+- **Collaboration**: GitHub, Slack, Notion
+- **AI**: OpenAI APIs, LangChain, Playwright
 
+---
 
-<br />
+<!---
 
-<p align="center">
+## 🌟 Featured Projects
 
+| Project Name | Description | Live Demo | Repo |
+|--------------|-------------|-----------|------|
+| **[UIUX](https://uiux.amankumar.ai/)** | Curated UI/UX components built with React, TailwindCSS, and Framer Motion. | [Visit](https://uiux.amankumar.ai/) | [Repo](https://github.com/onlyoneaman/cool-designs-react) |
+| **[Dreamboat.ai](https://dreamboat.ai/)** | AI tools to integrate LLM-powered features into apps. | [Visit](https://dreamboat.ai/) | Private |
+| **Personal Assistant** | AI companion integrating email and task prioritization. | N/A | Private |
 
+---
 
-</p>
-   
-   
-<br />
+-->
 
-<h2 align="center">🤝 Support</h2>
+## 📝 Blog & Writing
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
+I occasionally write about:
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+- **Tech & Tools**: Guides on React, TailwindCSS, and AI.
+- **Philosophy**: Why we are the way we are. 🌌
+- **Personal Growth**: Stories from my journey as an entrepreneur and developer.
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+Check out my blog at [amankumar.ai](https://amankumar.ai).
+
+---
+
+## 🎯 Fun Facts About Me
+
+- 💡 I enjoy puns and pop culture references.  
+- ✈️ I’m an avid traveler and love exploring new cultures.  
+- 🎶 Music fuels my creativity while coding.  
+- 🤔 A hopeless romantic with a touch of existential pondering.
+
+---
+
+## 📬 Get In Touch
+
+- **Website**: [amankumar.ai](https://amankumar.ai)  
+- **Twitter/X**: [@onlyoneaman](https://x.com/onlyoneaman)  
+- **GitHub**: [onlyoneaman](https://github.com/onlyoneaman)  
+- **Email**: [hi@amankumar.ai](mailto:hi@amankumar.ai)  
+
+---
+
+## 🌟 Let's Collaborate!
+
+I’m always open to exciting projects, collaborations, and ideas. Feel free to reach out! 🚀
+
+---
+
+This profile `README.md` is designed to highlight your skills and personality in a professional yet approachable tone. It also uses markdown tables and badges for better readability and aesthetics. Let me know if you’d like more customization!
