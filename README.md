@@ -1,8 +1,4 @@
-Here’s a clean, professional, and aesthetic `README.md` for your GitHub profile:
-
----
-
-# 👋 Hi, I'm Aman Kumar
+# 👋 Hi, I'm Aman
 
 [![Website](https://img.shields.io/badge/website-amankumar.ai-blue?style=flat&logo=internet-explorer)](https://amankumar.ai)  
 [![Twitter](https://img.shields.io/badge/twitter-@onlyoneaman-1DA1F2?style=flat&logo=twitter)](https://x.com/onlyoneaman)  
@@ -88,7 +84,3 @@ Check out my blog at [amankumar.ai](https://amankumar.ai).
 ## 🌟 Let's Collaborate!
 
 I’m always open to exciting projects, collaborations, and ideas. Feel free to reach out! 🚀
-
----
-
-This profile `README.md` is designed to highlight your skills and personality in a professional yet approachable tone. It also uses markdown tables and badges for better readability and aesthetics. Let me know if you’d like more customization!
