@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/website-amankumar.ai-blue?style=flat&logo=internet-explorer)](https://amankumar.ai)  
 [![Twitter](https://img.shields.io/badge/twitter-@onlyoneaman-1DA1F2?style=flat&logo=twitter)](https://x.com/onlyoneaman)  
 [![GitHub](https://img.shields.io/badge/github-onlyoneaman-black?style=flat&logo=github)](https://github.com/onlyoneaman)  
-[![Email](https://img.shields.io/badge/email-contact%40amankumar.ai-red?style=flat&logo=gmail)](mailto:hi@amankumar.ai)
+[![Email](https://img.shields.io/badge/email-hi%40amankumar.ai-red?style=flat&logo=gmail)](mailto:hi@amankumar.ai)
 
 ---
 
